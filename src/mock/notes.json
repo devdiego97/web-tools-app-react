@@ -1,0 +1,72 @@
+[
+  {
+    "id": "f3d91f42-5b6f-4c97-9e22-9b3fd92a0011",
+    "titulo": "Planejamento semanal de estudos",
+    "texto": "Definir metas claras para a semana.\nSeparar horários para React e TypeScript.\nPraticar componentização avançada.\nRevisar conceitos de hooks.\nTreinar consumo de APIs REST.\nEstudar gerenciamento de estado.\nCriar pequenos projetos práticos.\nRevisar código antigo e refatorar.\nAnotar dúvidas importantes.\nDocumentar aprendizados do dia.",
+    "criadoEm": "2025-07-01T10:00:00.000Z",
+    "atualizadoEm": "2025-07-01T10:00:00.000Z"
+  },
+  {
+    "id": "d12e4a53-7d22-4c98-b7c3-7d2ff91a0042",
+    "titulo": "Organização financeira mensal",
+    "texto": "Registrar todas as despesas fixas.\nSeparar gastos essenciais dos opcionais.\nCriar reserva de emergência.\nAnalisar assinaturas desnecessárias.\nPlanejar orçamento do próximo mês.\nEvitar compras impulsivas.\nAcompanhar investimentos semanalmente.\nDefinir metas financeiras anuais.\nUsar aplicativos de controle financeiro.\nRevisar saldo bancário diariamente.",
+    "criadoEm": "2025-07-02T09:30:00.000Z",
+    "atualizadoEm": "2025-07-02T09:30:00.000Z"
+  },
+  {
+    "id": "aa72bd19-812f-45d3-b2f4-5ef1a2bc0093",
+    "titulo": "Checklist de deploy",
+    "texto": "Verificar variáveis de ambiente.\nExecutar testes automatizados.\nConfirmar build de produção.\nValidar funcionamento das rotas.\nTestar autenticação da aplicação.\nChecar responsividade do layout.\nAnalisar performance da página.\nGarantir segurança das APIs.\nAtualizar documentação do projeto.\nPublicar nova versão no servidor.",
+    "criadoEm": "2025-07-03T14:00:00.000Z",
+    "atualizadoEm": "2025-07-03T14:00:00.000Z"
+  },
+  {
+    "id": "bcf8f613-9d3f-44c2-8e7b-18a2e8da1021",
+    "titulo": "Ideias para portfólio",
+    "texto": "Criar dashboard administrativo.\nDesenvolver clone de streaming.\nConstruir sistema de tarefas.\nImplementar autenticação JWT.\nAdicionar gráficos dinâmicos.\nCriar sistema de notificações.\nAplicar animações modernas.\nUsar arquitetura escalável.\nIntegrar backend em Node.js.\nPublicar projetos no GitHub.",
+    "criadoEm": "2025-07-04T11:20:00.000Z",
+    "atualizadoEm": "2025-07-04T11:20:00.000Z"
+  },
+  {
+    "id": "ce41a9f0-1f9a-4f2e-a2e4-7acb9fbc7781",
+    "titulo": "Estudo sobre bancos SQL",
+    "texto": "Aprender modelagem relacional.\nEntender chaves primárias.\nPraticar joins complexos.\nCriar queries otimizadas.\nEstudar índices de tabelas.\nAprender normalização de dados.\nTreinar procedures básicas.\nConfigurar banco PostgreSQL.\nIntegrar ORM Prisma.\nRealizar backup automático.",
+    "criadoEm": "2025-07-05T08:10:00.000Z",
+    "atualizadoEm": "2025-07-05T08:10:00.000Z"
+  },
+  {
+    "id": "d8c8f2a1-552a-4c3d-a1a9-8cf1c3ef5511",
+    "titulo": "Aprendizado de Docker",
+    "texto": "Entender conceito de containers.\nCriar primeiro Dockerfile.\nExecutar imagens localmente.\nAprender docker-compose.\nConfigurar ambiente Node.js.\nPersistir dados com volumes.\nCriar rede entre containers.\nEstudar deploy com Docker.\nOtimizar tamanho das imagens.\nPublicar imagem no Docker Hub.",
+    "criadoEm": "2025-07-06T12:00:00.000Z",
+    "atualizadoEm": "2025-07-06T12:00:00.000Z"
+  },
+  {
+    "id": "ef92a771-5aa7-4d9d-a6d7-5be4af921233",
+    "titulo": "Metas para carreira",
+    "texto": "Melhorar comunicação técnica.\nParticipar de entrevistas.\nPublicar artigos no LinkedIn.\nCriar networking na área.\nContribuir em projetos open source.\nAprofundar conhecimentos em React.\nAprender arquitetura de software.\nEstudar testes automatizados.\nPraticar algoritmos diariamente.\nConseguir vaga internacional.",
+    "criadoEm": "2025-07-07T15:40:00.000Z",
+    "atualizadoEm": "2025-07-07T15:40:00.000Z"
+  },
+  {
+    "id": "f1b3d1c7-0f2c-49d8-8fa1-2b7dcbff0019",
+    "titulo": "Rotina de produtividade",
+    "texto": "Acordar cedo diariamente.\nPlanejar tarefas prioritárias.\nEvitar distrações durante estudos.\nUsar técnica Pomodoro.\nSeparar tempo para leitura.\nRevisar objetivos semanais.\nPraticar exercícios físicos.\nOrganizar ambiente de trabalho.\nDormir em horário regular.\nManter consistência diária.",
+    "criadoEm": "2025-07-08T07:00:00.000Z",
+    "atualizadoEm": "2025-07-08T07:00:00.000Z"
+  },
+  {
+    "id": "c6d1a8ef-2f3e-4a2d-9bd1-2c8a3ee78120",
+    "titulo": "Funcionalidades para aplicativo",
+    "texto": "Adicionar sistema de login.\nImplementar recuperação de senha.\nCriar painel administrativo.\nPermitir upload de arquivos.\nAdicionar filtros avançados.\nCriar sistema de permissões.\nImplementar paginação.\nMelhorar experiência mobile.\nAdicionar modo escuro.\nCriar dashboard analítico.",
+    "criadoEm": "2025-07-09T13:15:00.000Z",
+    "atualizadoEm": "2025-07-09T13:15:00.000Z"
+  },
+  {
+    "id": "b7a2d4f1-18ce-4ef8-bd88-7ca8d2ee7720",
+    "titulo": "Checklist de segurança",
+    "texto": "Validar entradas do usuário.\nSanitizar dados recebidos.\nImplementar autenticação segura.\nUsar HTTPS em produção.\nProteger rotas privadas.\nCriptografar senhas corretamente.\nConfigurar CORS adequadamente.\nEvitar exposição de tokens.\nMonitorar logs do sistema.\nAtualizar dependências frequentemente.",
+    "criadoEm": "2025-07-10T17:25:00.000Z",
+    "atualizadoEm": "2025-07-10T17:25:00.000Z"
+  }
+]

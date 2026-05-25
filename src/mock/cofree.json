@@ -1,0 +1,182 @@
+[
+  {
+    "id": "8d1f92aa-6a2b-4d0e-a8f3-21efb0c10001",
+    "app": "GitHub",
+    "password": "Gh#2025Secure",
+    "pass_hash": "$2b$10$githubhash001",
+    "criadoEm": "2025-07-01T10:00:00.000Z",
+    "tags": ["dev", "codigo", "repositorio"],
+    "atualizadoEm": "2025-07-01T10:00:00.000Z"
+  },
+  {
+    "id": "c1e9a23b-5bfa-44f9-bc77-90ac9f320002",
+    "app": "Gmail",
+    "password": "Mail@2025Strong",
+    "pass_hash": "$2b$10$gmailhash002",
+    "criadoEm": "2025-07-02T09:20:00.000Z",
+    "tags": ["email", "google", "pessoal"],
+    "atualizadoEm": "2025-07-02T09:20:00.000Z"
+  },
+  {
+    "id": "f72b8e91-d4a0-4f93-b1a4-22bb2c450003",
+    "app": "LinkedIn",
+    "password": "Linked#Dev2025",
+    "pass_hash": "$2b$10$linkedinhash003",
+    "criadoEm": "2025-07-03T12:10:00.000Z",
+    "tags": ["trabalho", "network", "carreira"],
+    "atualizadoEm": "2025-07-03T12:10:00.000Z"
+  },
+  {
+    "id": "9f1e3d77-0bcf-4d0b-a8c2-93ff7b210004",
+    "app": "Discord",
+    "password": "Disc0rd@Safe",
+    "pass_hash": "$2b$10$discordhash004",
+    "criadoEm": "2025-07-04T14:30:00.000Z",
+    "tags": ["chat", "games", "comunidade"],
+    "atualizadoEm": "2025-07-04T14:30:00.000Z"
+  },
+  {
+    "id": "b2d7f4a1-11ce-4b91-b77f-12bcf3200005",
+    "app": "Netflix",
+    "password": "Net#Movie2025",
+    "pass_hash": "$2b$10$netflixhash005",
+    "criadoEm": "2025-07-05T08:00:00.000Z",
+    "tags": ["streaming", "entretenimento"],
+    "atualizadoEm": "2025-07-05T08:00:00.000Z"
+  },
+  {
+    "id": "de3f0a9c-8f22-47e1-b2a0-31ee7c990006",
+    "app": "Spotify",
+    "password": "Music#Flow2025",
+    "pass_hash": "$2b$10$spotifyhash006",
+    "criadoEm": "2025-07-06T16:40:00.000Z",
+    "tags": ["musica", "streaming"],
+    "atualizadoEm": "2025-07-06T16:40:00.000Z"
+  },
+  {
+    "id": "aa91f3d1-5c8f-47c2-a9ff-88ac7f880007",
+    "app": "AWS",
+    "password": "Aws#CloudSecure",
+    "pass_hash": "$2b$10$awshash007",
+    "criadoEm": "2025-07-07T11:15:00.000Z",
+    "tags": ["cloud", "infraestrutura", "devops"],
+    "atualizadoEm": "2025-07-07T11:15:00.000Z"
+  },
+  {
+    "id": "f1ac8d72-1bb4-48f7-8d4a-2bfa1d550008",
+    "app": "Figma",
+    "password": "Design#Ui2025",
+    "pass_hash": "$2b$10$figmahash008",
+    "criadoEm": "2025-07-08T13:50:00.000Z",
+    "tags": ["design", "uiux", "prototipo"],
+    "atualizadoEm": "2025-07-08T13:50:00.000Z"
+  },
+  {
+    "id": "ce7b91d2-5ef1-4d6f-9d11-44ef0c440009",
+    "app": "MongoDB Atlas",
+    "password": "Mongo#Data2025",
+    "pass_hash": "$2b$10$mongohash009",
+    "criadoEm": "2025-07-09T07:45:00.000Z",
+    "tags": ["database", "backend", "mongodb"],
+    "atualizadoEm": "2025-07-09T07:45:00.000Z"
+  },
+  {
+    "id": "91ff7d2c-22e1-43f2-a8d3-12bb0f880010",
+    "app": "Heroku",
+    "password": "Deploy#Fast2025",
+    "pass_hash": "$2b$10$herokuhash010",
+    "criadoEm": "2025-07-10T18:20:00.000Z",
+    "tags": ["deploy", "cloud", "backend"],
+    "atualizadoEm": "2025-07-10T18:20:00.000Z"
+  },
+  {
+    "id": "6cf2b8a1-8d11-4d0e-b991-11bcf9910011",
+    "app": "Trello",
+    "password": "Tasks#Manage2025",
+    "pass_hash": "$2b$10$trellohash011",
+    "criadoEm": "2025-07-11T09:10:00.000Z",
+    "tags": ["produtividade", "tarefas"],
+    "atualizadoEm": "2025-07-11T09:10:00.000Z"
+  },
+  {
+    "id": "82aa0f71-3c91-49d0-9ff2-72bcf2210012",
+    "app": "Notion",
+    "password": "Notes#Smart2025",
+    "pass_hash": "$2b$10$notionhash012",
+    "criadoEm": "2025-07-12T12:00:00.000Z",
+    "tags": ["organizacao", "workspace"],
+    "atualizadoEm": "2025-07-12T12:00:00.000Z"
+  },
+  {
+    "id": "f0a1d991-2bb7-45f3-a1ce-1cf7b4400013",
+    "app": "Vercel",
+    "password": "Deploy#Next2025",
+    "pass_hash": "$2b$10$vercelhash013",
+    "criadoEm": "2025-07-13T15:15:00.000Z",
+    "tags": ["frontend", "deploy", "nextjs"],
+    "atualizadoEm": "2025-07-13T15:15:00.000Z"
+  },
+  {
+    "id": "5b72f1ce-8f0d-4d91-9b2e-11ac7e120014",
+    "app": "Slack",
+    "password": "Team#Chat2025",
+    "pass_hash": "$2b$10$slackhash014",
+    "criadoEm": "2025-07-14T10:50:00.000Z",
+    "tags": ["trabalho", "comunicacao"],
+    "atualizadoEm": "2025-07-14T10:50:00.000Z"
+  },
+  {
+    "id": "ab22d7e9-4ff1-4c0d-b2f7-9ca2d9910015",
+    "app": "PayPal",
+    "password": "Pay#Secure2025",
+    "pass_hash": "$2b$10$paypalhash015",
+    "criadoEm": "2025-07-15T17:30:00.000Z",
+    "tags": ["financeiro", "pagamentos"],
+    "atualizadoEm": "2025-07-15T17:30:00.000Z"
+  },
+  {
+    "id": "ee91a0bc-1d22-45d1-a991-7bcf00120016",
+    "app": "Steam",
+    "password": "Game#Play2025",
+    "pass_hash": "$2b$10$steamhash016",
+    "criadoEm": "2025-07-16T20:00:00.000Z",
+    "tags": ["games", "entretenimento"],
+    "atualizadoEm": "2025-07-16T20:00:00.000Z"
+  },
+  {
+    "id": "c7a21e91-44d0-4c2f-b7f1-2fa7d8810017",
+    "app": "Adobe",
+    "password": "Adobe#Creative",
+    "pass_hash": "$2b$10$adobehash017",
+    "criadoEm": "2025-07-17T13:45:00.000Z",
+    "tags": ["design", "criatividade"],
+    "atualizadoEm": "2025-07-17T13:45:00.000Z"
+  },
+  {
+    "id": "91d2f7bc-0e22-4f88-a2cc-91bcf5510018",
+    "app": "DigitalOcean",
+    "password": "Cloud#Server2025",
+    "pass_hash": "$2b$10$digitaloceanhash018",
+    "criadoEm": "2025-07-18T09:00:00.000Z",
+    "tags": ["cloud", "servidor"],
+    "atualizadoEm": "2025-07-18T09:00:00.000Z"
+  },
+  {
+    "id": "a1ff7d3b-7e8a-4f11-b0f7-12dd99110019",
+    "app": "Firebase",
+    "password": "Fire#Base2025",
+    "pass_hash": "$2b$10$firebasehash019",
+    "criadoEm": "2025-07-19T11:25:00.000Z",
+    "tags": ["backend", "google", "database"],
+    "atualizadoEm": "2025-07-19T11:25:00.000Z"
+  },
+  {
+    "id": "bc71d991-5fa2-45f8-a1ee-90cf88110020",
+    "app": "Azure",
+    "password": "Azure#Cloud2025",
+    "pass_hash": "$2b$10$azurehash020",
+    "criadoEm": "2025-07-20T14:40:00.000Z",
+    "tags": ["cloud", "microsoft", "infra"],
+    "atualizadoEm": "2025-07-20T14:40:00.000Z"
+  }
+]
